@@ -1,0 +1,35 @@
+generated_at: "2026-04-05"
+project_name: novaaula3
+github_user: jccazorla62
+github_repo: https://github.com/jccazorla62/novaaula3
+git_initialized: true
+branch: main
+
+tools:
+  git:
+    status: ok
+    version: "2.43.0"
+  gh:
+    status: ok
+    version: "2.45.0"
+  node:
+    status: ok
+    version: "18.19.1"
+  npm:
+    status: ok
+    version: "9.2.0"
+  coderabbit:
+    status: not_installed
+    note: "Optional — instalar via WSL para quality gates"
+
+bootstrap_steps:
+  os_detected: true
+  cli_audit: true
+  git_initialized: true
+  github_repo_created: true
+  initial_push: true
+  github_workflows: true
+  coderabbit_config: true
+  docs_structure: true
+  aiox_runtime: true
+  package_json: true

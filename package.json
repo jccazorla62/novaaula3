@@ -1,0 +1,16 @@
+{
+  "name": "novaaula3",
+  "version": "0.1.0",
+  "description": "Projeto AIOX — novaaula3",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'dev server not configured yet'",
+    "build": "echo 'build not configured yet'",
+    "test": "echo 'no tests yet' && exit 0",
+    "lint": "echo 'lint not configured yet'",
+    "typecheck": "echo 'typecheck not configured yet'"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
